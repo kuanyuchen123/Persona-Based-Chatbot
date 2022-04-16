@@ -4,7 +4,7 @@ Chatbot baseline model
 Build with Pytorch
 
 # Description
-A simple chatbot baseline model, trained on Transformer model and Persona-Chat dataset
+A simple chatbot baseline model, trained on Transformer and Persona-Chat dataset
 
 Functionalities:
 * Chat with you and make you life better!
