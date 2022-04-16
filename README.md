@@ -7,7 +7,7 @@ Build with Pytorch
 A simple chatbot baseline model, trained on Transformer and Persona-Chat dataset
 
 Functionalities:
-* Chat with you and make you life better!
+* Chat with you and make your life better!
 
 # Usage
 Developed on Python 3.8
