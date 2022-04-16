@@ -18,8 +18,8 @@ decoder = Transformer_Decoder(
     num_decoder_layers=params.n_decode_layer, dropout_p=params.dropout
 ).to(device)
 
-encoder.load_state_dict(torch.load("./checkpoint/encoder_12.pt"))
-decoder.load_state_dict(torch.load("./checkpoint/decoder_12.pt"))
+encoder.load_state_dict(torch.load("./checkpoint/encoder_14.pt"))
+decoder.load_state_dict(torch.load("./checkpoint/decoder_14.pt"))
 tokenizer = Tokenizer.from_file("./vocab.json")
 
 print( "Start chatting with our chatbot!" )
