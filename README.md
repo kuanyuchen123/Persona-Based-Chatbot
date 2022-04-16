@@ -15,16 +15,15 @@ Developed on Python 3.8
 ```
 pip install -r requirements.txt
 ```
-2. Train by running
+2. Train by running (trained models will be saved at /checkpoint)
 ```
 python train.py
 ```
-3. Trained models will be saved at /checkpoint
-4. See the performence of each models by running
+3. See the performence of each models by running
 ```
 python test.py
 ```
-5. Chat with chatbot by running (sentences are decoded with beam search)
+4. Chat with chatbot by running (sentences are decoded with beam search)
 ```
 python demo.py
 ```
