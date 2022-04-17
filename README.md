@@ -1,7 +1,7 @@
 # Basic-Chatbot
 Chatbot baseline model
 
-Build with Pytorch
+Built with Pytorch
 
 # Description
 A simple chatbot baseline model, trained on Transformer and Persona-Chat dataset
