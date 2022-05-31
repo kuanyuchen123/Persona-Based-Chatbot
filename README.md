@@ -1,7 +1,7 @@
 # Basic-Chatbot
 Chatbot baseline model
 
-A simple chatbot baseline model, trained on Transformer and Persona-Chat dataset
+Trained on Transformer and Persona-Chat dataset
 
 Functionalities:
 * Chat with you and make your life better!
