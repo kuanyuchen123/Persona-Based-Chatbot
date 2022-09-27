@@ -1,9 +1,6 @@
 # Persona Based Chatbot
 Trained on Transformer and Persona-Chat dataset
 
-Functionalities:
-* Chat with you and make your life better!
-
 # Usage
 Developed on Python 3.8 with Pytorch
 1. Download required packages with
