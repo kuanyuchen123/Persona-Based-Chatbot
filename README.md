@@ -1,6 +1,4 @@
-# Basic-Chatbot
-Chatbot baseline model
-
+# Persona Based Chatbot
 Trained on Transformer and Persona-Chat dataset
 
 Functionalities:
